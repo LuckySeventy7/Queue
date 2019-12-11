@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1575426082 source:c:\users\sergio ruiz\documents\6to\act_cola_edd2_2\act_cola_edd2\main.cpp
+	<iostream>
+	"QueueD.h"
+	"QueueS.h"
+	<stdlib.h>
+
+1575360688 c:\users\sergio ruiz\documents\6to\act_cola_edd2_2\act_cola_edd2\include\queued.h
+	<iostream>
+
+1575425236 c:\users\sergio ruiz\documents\6to\act_cola_edd2_2\act_cola_edd2\include\queues.h
+
+1575425666 source:c:\users\sergio ruiz\documents\6to\act_cola_edd2_2\act_cola_edd2\src\queued.cpp
+	"QueueD.h"
+
+1575425666 source:c:\users\sergio ruiz\documents\6to\act_cola_edd2_2\act_cola_edd2\src\queues.cpp
+	"QueueS.h"
+	<iostream>
+
